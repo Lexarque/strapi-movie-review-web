@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_seo_seo_informations",
+  "info": {
+    "displayName": "SEO-Information",
+    "icon": "info-circle"
+  },
+  "options": {},
+  "attributes": {
+    "SEOTitle": {
+      "type": "string",
+      "required": true
+    },
+    "SEODesc": {
+      "type": "text"
+    }
+  }
+}
